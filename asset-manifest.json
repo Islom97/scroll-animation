@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/scroll-animation/static/css/main.f1814cea.chunk.css",
+    "main.js": "/scroll-animation/static/js/main.08e1f418.chunk.js",
+    "main.js.map": "/scroll-animation/static/js/main.08e1f418.chunk.js.map",
+    "runtime-main.js": "/scroll-animation/static/js/runtime-main.c52ac190.js",
+    "runtime-main.js.map": "/scroll-animation/static/js/runtime-main.c52ac190.js.map",
+    "static/js/2.cb213c12.chunk.js": "/scroll-animation/static/js/2.cb213c12.chunk.js",
+    "static/js/2.cb213c12.chunk.js.map": "/scroll-animation/static/js/2.cb213c12.chunk.js.map",
+    "index.html": "/scroll-animation/index.html",
+    "static/css/main.f1814cea.chunk.css.map": "/scroll-animation/static/css/main.f1814cea.chunk.css.map",
+    "static/js/2.cb213c12.chunk.js.LICENSE.txt": "/scroll-animation/static/js/2.cb213c12.chunk.js.LICENSE.txt",
+    "static/media/blogImage1.5c51346b.jpg": "/scroll-animation/static/media/blogImage1.5c51346b.jpg",
+    "static/media/blogImage2.9b1700ef.jpg": "/scroll-animation/static/media/blogImage2.9b1700ef.jpg",
+    "static/media/blogImage3.faeaff90.jpg": "/scroll-animation/static/media/blogImage3.faeaff90.jpg",
+    "static/media/Why.scss": "/scroll-animation/static/media/videoImage.b44159f1.jpg",
+    "static/media/work.1948bdf6.svg": "/scroll-animation/static/media/work.1948bdf6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c52ac190.js",
+    "static/js/2.cb213c12.chunk.js",
+    "static/css/main.f1814cea.chunk.css",
+    "static/js/main.08e1f418.chunk.js"
+  ]
+}
